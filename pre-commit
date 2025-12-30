@@ -1,0 +1,18 @@
+#!/bin/sh
+
+# regex='@company/.com$'
+# email=$GIT_AUTHOR_EMAIL
+
+# if [[ $email =~ $regex ]]
+# then 
+#     echo your $email satisfies with Git Policy
+#     exit 0
+# else
+#     echo your $email does not satisfies with Git Policy
+#     exit 1
+
+# echo committing is disabled
+
+# exit 1
+
+#fi
